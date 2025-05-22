@@ -6,3 +6,4 @@ torch
 transformers
 elevenlabs
 python-dotenv
+groq
