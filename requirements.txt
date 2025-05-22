@@ -7,3 +7,10 @@ transformers
 elevenlabs
 python-dotenv
 groq
+gtts
+SpeechRecognition
+pydub
+platformdirs
+transformers
+ffmpeg-python
+pyaudio 
