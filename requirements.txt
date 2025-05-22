@@ -13,4 +13,4 @@ pydub
 platformdirs
 transformers
 ffmpeg-python
-pyaudio 
+
