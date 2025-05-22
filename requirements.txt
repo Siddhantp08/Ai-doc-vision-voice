@@ -1,1 +1,8 @@
 huggingface_hub==0.25.2
+gradio
+huggingface_hub
+requests
+torch
+transformers
+elevenlabs
+python-dotenv
